@@ -1,0 +1,110 @@
+{
+    "data": {
+        "ip": "171.76.86.246",
+        "hostname": null,
+        "type": "v4",
+        "range_type": {
+            "type": "PUBLIC",
+            "description": "Public address"
+        },
+        "connection": {
+            "asn": 45609,
+            "organization": "Bharti Airtel Limited",
+            "isp": "Bharti Airtel Limited",
+            "range": "171.76.64.0/18"
+        },
+        "location": {
+            "geonames_id": 1277333,
+            "latitude": 12.971940040588379,
+            "longitude": 77.59368896484375,
+            "zip": "560001",
+            "continent": {
+                "code": "AS",
+                "name": "Asia",
+                "name_translated": "Asia"
+            },
+            "country": {
+                "alpha2": "IN",
+                "alpha3": "IND",
+                "calling_codes": [
+                    "+91"
+                ],
+                "currencies": [
+                    {
+                        "symbol": "Rs",
+                        "name": "Indian Rupee",
+                        "symbol_native": "\u099f\u0995\u09be",
+                        "decimal_digits": 2,
+                        "rounding": 0,
+                        "code": "INR",
+                        "name_plural": "Indian rupees"
+                    }
+                ],
+                "emoji": "\ud83c\uddee\ud83c\uddf3",
+                "ioc": "IND",
+                "languages": [
+                    {
+                        "name": "English",
+                        "name_native": "English"
+                    },
+                    {
+                        "name": "Hindi",
+                        "name_native": "\u0939\u093f\u0902\u0926\u0940"
+                    }
+                ],
+                "name": "India",
+                "name_translated": "India",
+                "timezones": [
+                    "Asia/Kolkata"
+                ],
+                "is_in_european_union": false,
+                "fips": "IN",
+                "geonames_id": 1269750,
+                "hasc_id": "IN",
+                "wikidata_id": "Q668"
+            },
+            "city": {
+                "fips": null,
+                "alpha2": null,
+                "geonames_id": 1277333,
+                "hasc_id": null,
+                "wikidata_id": "Q1355",
+                "name": "Bangalore",
+                "name_translated": "Bangalore"
+            },
+            "region": {
+                "fips": "IN19",
+                "alpha2": "IN-KA",
+                "geonames_id": 1267701,
+                "hasc_id": "IN.KA",
+                "wikidata_id": "Q1185",
+                "name": "Karnataka",
+                "name_translated": "Karnataka"
+            }
+        },
+        "tlds": [
+            ".in"
+        ],
+        "timezone": {
+            "id": "Asia/Kolkata",
+            "current_time": "2023-04-10T19:55:30+05:30",
+            "code": "IST",
+            "is_daylight_saving": false,
+            "gmt_offset": 19800
+        },
+        "security": {
+            "is_anonymous": null,
+            "is_bot": null,
+            "is_known_attacker": null,
+            "is_proxy": null,
+            "is_spam": null,
+            "is_tor": null,
+            "proxy_type": null,
+            "threat_score": null
+        },
+        "domains": {
+            "count": null,
+            "domains": []
+        }
+    }
+}
